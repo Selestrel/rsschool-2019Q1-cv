@@ -17,7 +17,7 @@
 
 ### Summary
 
-To contribute professional skills in order to achieve your company’s goals as a Junior JS Developer.
+To contribute professional skills in order to achieve your company’s goals as a Junior JS Developer.  
 My best qualities is:
 * high learning ability
 * dependability
